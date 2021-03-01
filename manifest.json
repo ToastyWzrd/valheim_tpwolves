@@ -1,0 +1,8 @@
+{
+  "name": "TeleportWolves",
+  "description": "This plugin makes your wolves able to follow you through portals.",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "dependencies": [
+  ]
+}
